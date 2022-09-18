@@ -1,0 +1,14 @@
+# Site settings
+title: ❤️ Privacy Stuff
+# Privacy - The simple guide 
+tag_text: ❤️ Privacy Stuff
+description: A responsive single-page website
+url: "https://jcabeza.github.io/privacy"
+baseurl: "/"
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
