@@ -2,6 +2,8 @@
 layout: default
 ---
 
+> “🔥 Software and tools I use.”
+
 #### 🌍 Navigator
 
 - [Tor Brower](https://www.torproject.org) 🔥
@@ -407,10 +409,6 @@ layout: default
 - https://www.duolingo.com/
 
 ---
-
-#### 🔗 ViSit Me
-
-> “Software and tools I use.”
 
 <!-- <img src="./img/awesome-links.png" alt="Awesome Links" width="50" height="50"> -->
 <p align="center"> Awesome Links - Developed with Love ❤ </p>
