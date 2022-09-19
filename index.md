@@ -2,7 +2,9 @@
 layout: default
 ---
 
-> “🔥 Software and tools I use.”
+<center> > “🔥 Software and tools I use.” </center>
+
+---
 
 #### 🌍 Navigator
 
