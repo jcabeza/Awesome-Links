@@ -4,8 +4,8 @@ layout: default
 
 #### 🌍 Navigator
 
-- [Tor Brower](https://www.torproject.org)   
-- [Firefox](https://www.mozilla.org/fr/firefox)
+- [Tor Brower](https://www.torproject.org) 💯
+- [Firefox](https://www.mozilla.org/fr/firefox) 💯
 - [Brave](https://brave.com/fr)
 - [DuckDuckGo](https://duckduckgo.com)
 - [Orbot: Tor for Android](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US)
@@ -13,13 +13,13 @@ layout: default
 
 #### 🧩 Addons
 
-- [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
-- [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/)
-- [DuckDuckGo](https://addons.mozilla.org/fr/firefox/addon/duckduckgo-for-firefox/)
-- [HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere)
+- [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) 💯
+- [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/) 💯
+- [DuckDuckGo](https://addons.mozilla.org/fr/firefox/addon/duckduckgo-for-firefox/) 💯
+- [HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere) 💯
 - [Ghostery](https://addons.mozilla.org/fr/firefox/addon/ghostery/)
-- [Redirector](https://addons.mozilla.org/fr/firefox/addon/redirector)
-- [Privacy Redirect](https://addons.mozilla.org/fr/firefox/addon/privacy-redirect/)
+- [Redirector](https://addons.mozilla.org/fr/firefox/addon/redirector) 💯
+- [Privacy Redirect](https://addons.mozilla.org/fr/firefox/addon/privacy-redirect/) 💯
 
 #### 💻 Linux
 
@@ -27,7 +27,7 @@ layout: default
 
 #### 💻 Windows
 
-- [PowerToys](https://github.com/microsoft/PowerToys/releases)
+- [PowerToys](https://github.com/microsoft/PowerToys/releases) 💯
 - [XMeters](https://entropy6.com/xmeters/)
 - [WinFR](https://www.microsoft.com/fr-fr/p/windows-file-recovery/9n26s50ln705?activetab=pivot:overviewtab)
 - [Chocolatey](https://chocolatey.org/)
@@ -36,7 +36,6 @@ layout: default
 - [Rain Wallpaper](http://rainysoft.cc/rainwallpaper.html)
 - [Lightkey (AI-powered Text Predictions)](https://www.lightkey.io/)
 - [Listary (Search utility for Windows)](https://www.listary.com/)
-- [KeyStore Explorer](https://keystore-explorer.org/)
 - [ShareX Screen Capture](https://getsharex.com/)
 
 #### 🦾 DevOps
@@ -407,5 +406,5 @@ layout: default
 
 > “Software I used.”
 
-<img src="./img/awesome-links.png" alt="Awesome Links" width="50" height="50"> 
+<!-- <img src="./img/awesome-links.png" alt="Awesome Links" width="50" height="50"> -->
 <p align="center"> Awesome Links - Developed with Love ❤ </p>
