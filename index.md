@@ -407,5 +407,5 @@ layout: default
 
 > “Software I used.”
 
-<img src="./img/awesome-stuff.png" alt="Awesome Stuff" width="50" height="50"> 
-<p align="center"> Awesome Stuff - Developed with Love ❤ </p>
+<img src="./img/awesome-links.png" alt="Awesome Links" width="50" height="50"> 
+<p align="center"> Awesome Links - Developed with Love ❤ </p>
