@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<center> > “🔥 Software and tools I use.” </center>
+<center> “🔥 Software and tools I use.” </center>
 
 ---
 
