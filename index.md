@@ -4,22 +4,27 @@ layout: default
 
 #### 🌍 Navigator
 
-- [Tor Brower](https://www.torproject.org) 💯
-- [Firefox](https://www.mozilla.org/fr/firefox) 💯
+- [Tor Brower](https://www.torproject.org) 🔥
+- [Firefox](https://www.mozilla.org/fr/firefox) 🔥
 - [Brave](https://brave.com/fr)
-- [DuckDuckGo](https://duckduckgo.com)
 - [Orbot: Tor for Android](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US)
 - [Tor Browser for Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
 
+#### 🌍 Search
+
+- [DuckDuckGo](https://duckduckgo.com)
+- [Startpage](https://www.startpage.com/)
+- [DarkSearch](https://darksearch.io/)
+
 #### 🧩 Addons
 
-- [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) 💯
-- [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/) 💯
-- [DuckDuckGo](https://addons.mozilla.org/fr/firefox/addon/duckduckgo-for-firefox/) 💯
-- [HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere) 💯
+- [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) 🔥
+- [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/) 🔥
+- [DuckDuckGo](https://addons.mozilla.org/fr/firefox/addon/duckduckgo-for-firefox/) 🔥
+- [HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere) 🔥
 - [Ghostery](https://addons.mozilla.org/fr/firefox/addon/ghostery/)
-- [Redirector](https://addons.mozilla.org/fr/firefox/addon/redirector) 💯
-- [Privacy Redirect](https://addons.mozilla.org/fr/firefox/addon/privacy-redirect/) 💯
+- [Redirector](https://addons.mozilla.org/fr/firefox/addon/redirector) 🔥
+- [Privacy Redirect](https://addons.mozilla.org/fr/firefox/addon/privacy-redirect/) 🔥
 
 #### 💻 Linux
 
@@ -27,7 +32,7 @@ layout: default
 
 #### 💻 Windows
 
-- [PowerToys](https://github.com/microsoft/PowerToys/releases) 💯
+- [PowerToys](https://github.com/microsoft/PowerToys/releases) 🔥
 - [XMeters](https://entropy6.com/xmeters/)
 - [WinFR](https://www.microsoft.com/fr-fr/p/windows-file-recovery/9n26s50ln705?activetab=pivot:overviewtab)
 - [Chocolatey](https://chocolatey.org/)
@@ -40,14 +45,14 @@ layout: default
 
 #### 🦾 DevOps
 
-- [Windows Subsystem for Linux (WSL2)](https://docs.microsoft.com/fr-fr/windows/wsl/install-win10)
+- [Windows Subsystem for Linux (WSL2)](https://docs.microsoft.com/fr-fr/windows/wsl/install-win10) 🔥
 - [Windows Subsystem for Linux (Optimization)](https://medium.com/@leandrocrs/speeding-up-wsl-i-o-up-than-5x-fast-saving-a-lot-of-battery-life-cpu-usage-c3537dd03c74)
-- [WSL / ZSH Terminal Environment (Readme)](https://fcbrossard.net/blog/wsl-ubuntu-zsh-hyper-terminal)
+- [WSL / ZSH Terminal Environment (Readme)](https://fcbrossard.net/blog/wsl-ubuntu-zsh-hyper-terminal) 🔥
 - [Hyper.js (Terminal)](https://hyper.is/)
-- [Oh My Zsh](https://ohmyz.sh/)
+- [Oh My Zsh](https://ohmyz.sh/) 🔥
 - [Oh My Zsh Powerlevel10k Theme](https://github.com/romkatv/powerlevel10k)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Markdown Docs
+- [Visual Studio Code](https://code.visualstudio.com/) 🔥
+- VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Markdown Docs 🔥
 - [Shades-of-Purple-VSCode (VSCode Theme)](https://nicedoc.io/ahmadawais/Shades-of-Purple-VSCode)
 - [DevDocs](https://devdocs.io/)
 - [Github](https://github.com/)
@@ -63,28 +68,33 @@ layout: default
 
 #### 🔑 Password
 
-- [Bitwarden](https://bitwarden.com)
+- [Bitwarden](https://bitwarden.com) 🔥
 - [KeePassXC](https://keepassxc.org)
 - [KeePassDX](https://www.keepassdx.com)
 - [OneTimePassword](https://onetimesecret.com)
 
 #### ✉️ Mailing
 
-- [ProtonMail](https://protonmail.com)
+- [ProtonMail](https://protonmail.com) 🔥
 
 #### 📡 Messaging
 
-- [Signal](https://www.signal.org)
-- [Telegram](https://telegram.org)
-- [Discord](https://discord.com/download)
+- [Signal](https://www.signal.org) 🔥
+- [Telegram](https://telegram.org) 🔥
+- [Discord](https://discord.com/download) 🔥
 
 #### 📄 File Management
 
-- [Swiss Transfert](https://www.swisstransfer.com/fr)
-- [Send Tresorit](https://send.tresorit.com/)
 - [Nextcloud](https://nextcloud.com/)
 - [Filestash](https://www.filestash.app/)
 - [Filegator](https://filegator.io/)
+
+#### 🗒️ File Transfert
+
+- [SwissTransfer](https://www.swisstransfer.com/fr) 🔥
+- [Send Tresorit](https://send.tresorit.com/)
+- [Onion Share](https://onionshare.org)
+- [SecureDrop](https://securedrop.org)
 
 #### 📄 File Restore
 
@@ -97,7 +107,7 @@ layout: default
 
 #### 📖 RSS Readers
 
-- [Feedly](https://feedly.com/)
+- [Feedly](https://feedly.com/) 🔥
 
 #### 📂 Directory Reader / Framework
 
@@ -119,7 +129,7 @@ layout: default
 - [Antidote](https://www.antidote.info/fr/antidote-10)
 - [LanguageTool](https://languagetool.org/fr/)
 
-#### 📷 Photo
+#### 📸 Photo
 
 - [RawTherapee](https://rawtherapee.com/)
 - [Darktable](https://darktable.fr/)
@@ -142,6 +152,8 @@ layout: default
 - [Pixlr](https://pixlr.com/fr/)
 - [Krita](https://krita.org/en/download/krita-desktop/)
 - [PSD Reader](https://maxogden.github.io/psd.js/)
+- [Reshot](https://www.reshot.com/)
+- [Simple Icons](https://simpleicons.org/)
 
 #### 📹 Video
 
@@ -158,14 +170,14 @@ layout: default
 
 #### 🎬 Multimedia / Media Center
 
-- [Emby](https://emby.media/)
+- [Emby](https://emby.media/) 🔥
 - [Kodi](https://kodi.tv/)
 - [Plex](https://www.plex.tv/your-media/)
 - [Imagotv](https://imagotv.fr/)
 - [Leonflix](https://leonflix.net/)
 - [Captvty](https://captvty.fr/)
 
-#### 🖼 Picture / Picture Library
+#### 📷 Picture / Picture Library
 
 - [TinyEye](https://tineye.com/)
 - [Pixabay](https://pixabay.com/fr/)
@@ -175,6 +187,11 @@ layout: default
 - [Estract Pics](https://extract.pics/)
 - [Convertio](https://convertio.co/fr/png-ico/)
 
+#### 🪟 Wallpapers
+
+- [Wallhaven](https://wallhaven.cc/)
+- [Wallpaperflare](https://www.wallpaperflare.com/)
+
 #### 💎 3D
 
 - [Blender](https://www.blender.org/)
@@ -183,13 +200,10 @@ layout: default
 
 #### 👫🏻 Collaborative
 
-- [Microsoft OneDrive](https://www.microsoft.com/fr-fr/microsoft-365/onedrive/online-cloud-storage)
+- [Proton Drive](https://drive.proton.me) 🔥
+- [Microsoft OneDrive](https://www.microsoft.com/fr-fr/microsoft-365/onedrive/online-cloud-storage) 🔥
 - [pCloud](https://www.pcloud.com/fr)
 - [Tresorit](https://tresorit.com/fr)
-
-#### 🌍 Search
-
-[DarkSearch](https://darksearch.io/)
 
 #### 🎮 Gaming / Emulator
 
@@ -230,38 +244,23 @@ layout: default
 
 #### 🧰 Web Tools
 
-- [httpie](https://github.com/jakubroztocil/httpie)
-- [KeyStore Explorer](https://keystore-explorer.org/index.html)
+- [httpie](https://github.com/jakubroztocil/httpie) 🔥
+- [KeyStore Explorer](https://keystore-explorer.org/index.html) 🔥
 
 #### ⚔️ Security
 
-- [Cryptomator (Data Encrypts)](https://cryptomator.org/)
-- [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt/)
-- [PrivateBin](https://privatebin.info/)
-- [One Time Secret](https://onetimesecret.com/)
-- [WipeFile (Secure Erase)](https://www.gaijin.at/en/software/wipefile)
-- [Uncomplicated FireWall (UFW)](https://doc.ubuntu-fr.org/ufw)
 - [Certbot Let's Encrypt](https://certbot.eff.org/)
 - [Fail2ban](https://doc.ubuntu-fr.org/Fail2ban)
-- [Wireguard](https://www.wireguard.com/)
-- [OpenVPN](https://openvpn.net/)
 - [Pockint](https://github.com/netevert/pockint.git)
 - [DFIR ORC](https://dfir-orc.github.io/)
 - [Securi.net](https://sitecheck.sucuri.net/)
 - [DNSDumpster](https://dnsdumpster.com/)
 - [DBAN](https://dban.org/)
 - [Lynis](https://cisofy.com/lynis/)
-- [AdGuard](https://adguard.com/fr/welcome.html)
-- [IP Fire](https://www.ipfire.org/)
+
+#### 🦠 Antivirus
+
 - [ClamAV](https://www.clamav.net/)
-- [Hat File Encryption](https://hat.sh/)
-- [Kryptor](https://www.kryptor.co.uk/)
-
-#### 💻 Raspberry Pi
-
-- [Pi-hole](https://pi-hole.net/)
-- [HAProxy](https://www.haproxy.com/fr/)
-- [PiVPN](https://pivpn.io/)
 
 #### 🧪 Virtualization
 
@@ -277,60 +276,63 @@ layout: default
 - [Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/)
 - [Kitematic by Docker](https://kitematic.com/)
 
+#### ⛓ Reverse Proxy & Load Balancer
+
+- [HAProxy](https://www.haproxy.com/fr/)
+
 #### 💡 Domotics
 
+- [Amazon Alexa](https://developer.amazon.com/fr-FR/alexa) 🔥
+- [Philips HUE](https://www.philips-hue.com/fr-fr) 🔥
 - [HueBlog](https://hueblog.com/)
-- [Amazon Alexa](https://developer.amazon.com/fr-FR/alexa)
-- [Philips HUE](https://www.philips-hue.com/fr-fr)
 
 #### ⏱ Time Management
 
-- [Pomotroid (Pomodoro Timer)](https://splode.github.io/pomotroid/)
+- [Pomotroid (Pomodoro Timer)](https://splode.github.io/pomotroid/) 🔥
 
 #### 📝 Editors / Markdown / Ascii
 
+- [Noteppad++ (Notepad Editor)](https://notepad-plus-plus.org/) 🔥
 - [Mark Text](https://marktext.app/)
-- [Noteppad++ (Notepad Editor)](https://notepad-plus-plus.org/)
 - [asciiflow](https://asciiflow.com/)
 - [ascii-art](https://textfancy.com/ascii-art/)
 
 #### 🧱 Firewall & Network
 
 - [Portmaster](https://safing.io/portmaster)
+- [Simplewall](https://www.henrypp.org/product/simplewall)
+- [Uncomplicated FireWall (UFW)](https://doc.ubuntu-fr.org/ufw) 🔥
+- [IP Fire](https://www.ipfire.org/)
 
 #### 🔐 Encryption
 
-- [BitLocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
-- [Cryptomator](https://cryptomator.org)
-- [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt)
+- [BitLocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview) 🔥
+- [Cryptomator](https://cryptomator.org) 🔥
+- [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt) 🔥
 - [Hat.sh](https://hat.sh)
+- [Kryptor](https://www.kryptor.co.uk/)
 
 #### 🧹 Secure-Deletion
 
-- [WipeFile](https://www.gaijin.at/en/software/wipefile)
+- [WipeFile](https://www.gaijin.at/en/software/wipefile) 🔥
 - [Eraser](https://eraser.heidi.ie)
 
 #### 🗡️ VPN
 
-- [ProtonVPN](https://protonvpn.com)
-- [OpenVPN](https://openvpn.net)
+- [ProtonVPN](https://protonvpn.com) 🔥
+- [OpenVPN](https://openvpn.net) 🔥
 - [WireGuard](https://www.wireguard.com)
+- [PiVPN](https://pivpn.io/)
 
 #### ✂️ Pastebin
 
-- [PrivateBin](https://privatebin.net)
+- [PrivateBin](https://privatebin.net) 🔥
 - [Seafile](https://www.seafile.com/en/home)
-
-#### 🗒️ File Transfert
-
-- [SwissTransfer](https://www.swisstransfer.com/fr)
-- [Onion Share](https://onionshare.org)
-- [SecureDrop](https://securedrop.org)
 
 #### 📹 📺 Youtube
 
 - [FreeTube](https://freetubeapp.io)
-- [NewPipe for Android](https://newpipe.net)
+- [NewPipe for Android](https://newpipe.net) 🔥
 
 #### 🧹 Exif Data
 
@@ -338,7 +340,7 @@ layout: default
 
 #### 🔍 Tracking & Advertising
 
-- [AdGuard Home](https://adguard.com/fr/adguard-home/overview.html)
+- [AdGuard Home](https://adguard.com/fr/adguard-home/overview.html) 🔥
 - [Pi-hole](https://pi-hole.net)
 - [Blocking list #1](https://energized.pro)
 - [Blocking list #2](https://filterlists.com)
@@ -349,10 +351,10 @@ layout: default
 
 ### ⚖️ Cryptocurrency
 
-- [Coinbase](https://www.coinbase.com/)
-- [Coinbase Wallet](https://wallet.coinbase.com/)
-- [Binance](https://www.binance.com/fr)
-- [Ledger](https://www.ledger.com/)
+- [Coinbase](https://www.coinbase.com/) 🔥
+- [Coinbase Wallet](https://wallet.coinbase.com/) 🔥
+- [Binance](https://www.binance.com/fr) 🔥
+- [Ledger](https://www.ledger.com/) 🔥
 
 #### 🛒 Purchase
 
@@ -366,6 +368,10 @@ layout: default
 - [Qubes-os](https://www.qubes-os.org)
 - [Windows 10/11 Privacy](https://www.oo-software.com/en/shutup10)
 - [Windows 10/11 Spy Blocker](https://crazymax.dev/WindowsSpyBlocker)
+
+#### 📖 Ebooks
+
+- [Z-Library project](https://b-ok.xyz/)
 
 #### 😜 Funny
 
@@ -404,7 +410,7 @@ layout: default
 
 #### 🔗 ViSit Me
 
-> “Software I used.”
+> “Software and tools I use.”
 
 <!-- <img src="./img/awesome-links.png" alt="Awesome Links" width="50" height="50"> -->
 <p align="center"> Awesome Links - Developed with Love ❤ </p>
