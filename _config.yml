@@ -1,9 +1,9 @@
 # Site settings
-title: ❤️ Awesome Stuff
+title: ❤️ Awesome Links
 # Privacy - The simple guide 
-tag_text: ❤️ Awesome Stuff
-description: A responsive single-page website for Awesome Stuff
-url: "https://jcabeza.github.io/Awesome-Stuff"
+tag_text: ❤️ Awesome Links
+description: A responsive single-page website for Awesome Links
+url: "https://jcabeza.github.io/Awesome-Links"
 baseurl: "/"
 
 font-awesome-include: true # make this false if you don't need font-awesome
