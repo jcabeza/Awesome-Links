@@ -66,6 +66,10 @@ layout: default
 - [Gitea](https://gitea.io/en-us/)
 - [GitLab](https://about.gitlab.com/)
 
+#### 💻 Raspberry PI
+
+- [RPI Locator](https://rpilocator.com/?)
+
 #### 🐙 Github
 
 - [Tig for Git](https://jonas.github.io/tig/)
@@ -89,6 +93,7 @@ layout: default
 
 - [Signal](https://www.signal.org) 🔥
 - [Telegram](https://telegram.org) 🔥
+- [Telegram Web](https://web.telegram.im/)
 - [Discord](https://discord.com/download) 🔥
 
 #### 📄 File Management
@@ -320,6 +325,7 @@ layout: default
 - [Simplewall](https://www.henrypp.org/product/simplewall) 🧪
 - [Uncomplicated FireWall (UFW)](https://doc.ubuntu-fr.org/ufw) 🔥
 - [IP Fire](https://www.ipfire.org/)
+- [Nftables](https://www.linuxembedded.fr/2022/06/introduction-a-nftables)
 
 #### 🔐 Encryption
 
@@ -387,8 +393,9 @@ layout: default
 - [Windows 10/11 Privacy](https://www.oo-software.com/en/shutup10)
 - [Windows 10/11 Spy Blocker](https://crazymax.dev/WindowsSpyBlocker)
 
-#### 📖 Ebooks
+#### 📖 Ebooks, Kindle & reMarkable
 
+- [Koodo Ebook Reader](https://koodo.960960.xyz/en)
 - [Z-Library project](https://b-ok.xyz/)
 
 #### 😜 Funny
