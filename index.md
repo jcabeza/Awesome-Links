@@ -68,6 +68,7 @@ layout: default
 - [Tig for Git](https://jonas.github.io/tig/)
 - [Shields.io](https://shields.io/)
 - [GetEmoji](https://getemoji.com/)
+- [Gitmoji](https://gitmoji.dev/)
 - [Readme.so](https://readme.so/fr)
 
 #### 🔑 Password
@@ -104,6 +105,10 @@ layout: default
 
 - [Recuva](http://www.recuva.fr/)
 
+#### 📄 File Search
+
+- [FilePursuit](https://filepursuit.com/)
+
 #### 📑 PDF Tools
 
 - [I Love PDF](https://www.ilovepdf.com/)
@@ -127,6 +132,9 @@ layout: default
 - [BookStack](https://www.bookstackapp.com/)
 - [BookStack Theme](https://github.com/domainzero/bookstack-dark-theme)
 - [MatterWiki](http://matterwiki.com/)
+
+#### 📥 Torrent
+
 
 #### 📢 Spell Checker
 
@@ -261,6 +269,7 @@ layout: default
 - [DNSDumpster](https://dnsdumpster.com/)
 - [DBAN](https://dban.org/)
 - [Lynis](https://cisofy.com/lynis/)
+- [CrowdSec](https://www.crowdsec.net/)
 
 #### 🦠 Antivirus
 
