@@ -339,6 +339,7 @@ layout: default
 - [ProtonVPN](https://protonvpn.com) 🔥
 - [OpenVPN](https://openvpn.net) 🔥
 - [WireGuard](https://www.wireguard.com)
+- [Firezone](https://www.firezone.dev/) 🧪
 - [PiVPN](https://pivpn.io/)
 
 #### ✂️ Pastebin
