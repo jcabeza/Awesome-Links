@@ -279,6 +279,11 @@ layout: default
 - [Lynis](https://cisofy.com/lynis/)
 - [CrowdSec](https://www.crowdsec.net/)
 
+#### 🔍 DNS
+
+- [NextDNS](https://nextdns.io/fr)
+- [Cloudflare](https://1.1.1.1/fr-FR/dns/)
+
 #### 🦠 Antivirus
 
 - [ClamAV](https://www.clamav.net/)
@@ -410,6 +415,7 @@ layout: default
 - [Weavesilk](http://weavesilk.com/)
 - [Harmony](https://mrdoob.com/projects/harmony/#web)
 - [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+- [Foldnfly](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 
 #### 🧪 <span style="color: #fb4141"> To be tested </span>
 
