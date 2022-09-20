@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<center> “🔥 Software and tools I use.” </center>
+---
+
+<center> “🔥 Software and tools I use & 🧪 Software to be test” </center>
 
 ---
 
@@ -58,8 +60,9 @@ layout: default
 - [Visual Studio Code](https://code.visualstudio.com/) 🔥
 - VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Markdown Docs 🔥
 - [Shades-of-Purple-VSCode (VSCode Theme)](https://nicedoc.io/ahmadawais/Shades-of-Purple-VSCode)
-- [DevDocs](https://devdocs.io/)
-- [Github](https://github.com/)
+- [DevDocs](https://devdocs.io/) 🔥
+- [Smalldev Tools](https://smalldev.tools/) 🔥
+- [Github](https://github.com/) 🔥
 - [Gitea](https://gitea.io/en-us/)
 - [GitLab](https://about.gitlab.com/)
 
@@ -291,7 +294,7 @@ layout: default
 
 #### ⛓ Reverse Proxy & Load Balancer
 
-- [HAProxy](https://www.haproxy.com/fr/)
+- [HAProxy](https://www.haproxy.com/fr/) 🔥
 
 #### 💡 Domotics
 
@@ -306,14 +309,15 @@ layout: default
 #### 📝 Editors / Markdown / Ascii
 
 - [Noteppad++ (Notepad Editor)](https://notepad-plus-plus.org/) 🔥
-- [Mark Text](https://marktext.app/)
+- [Mark Text](https://marktext.app/) 🧪
 - [asciiflow](https://asciiflow.com/)
 - [ascii-art](https://textfancy.com/ascii-art/)
 
 #### 🧱 Firewall & Network
 
-- [Portmaster](https://safing.io/portmaster)
-- [Simplewall](https://www.henrypp.org/product/simplewall)
+- [Portmaster](https://safing.io/portmaster) 🧪
+- [Firezone](https://www.firezone.dev/) 🧪
+- [Simplewall](https://www.henrypp.org/product/simplewall) 🧪
 - [Uncomplicated FireWall (UFW)](https://doc.ubuntu-fr.org/ufw) 🔥
 - [IP Fire](https://www.ipfire.org/)
 
