@@ -36,6 +36,7 @@ layout: default
 
 - [Crontab Guru](https://crontab.guru/)
 - [Linux Uprising](https://www.linuxuprising.com/)
+- [Rocky Linux](https://docs.rockylinux.org/books/)
 
 #### 💻 Windows
 
@@ -149,6 +150,7 @@ layout: default
 
 #### 📥 Torrent
 
+- [WebTorrent](https://webtorrent.io/) 
 
 #### 📢 Spell Checker
 
@@ -270,7 +272,8 @@ layout: default
 
 #### 🧰 Web Tools
 
-- [httpie](https://github.com/jakubroztocil/httpie) 🔥
+- [httpie](https://httpie.io/product) 🔥
+- [httpie Github](https://github.com/jakubroztocil/httpie)
 - [KeyStore Explorer](https://keystore-explorer.org/index.html) 🔥
 
 #### ⚔️ Security
@@ -336,7 +339,14 @@ layout: default
 - [Simplewall](https://www.henrypp.org/product/simplewall) 🧪
 - [Uncomplicated FireWall (UFW)](https://doc.ubuntu-fr.org/ufw) 🔥
 - [IP Fire](https://www.ipfire.org/)
+- [Pfsense](https://www.pfsense.org/)
 - [Nftables](https://www.linuxembedded.fr/2022/06/introduction-a-nftables)
+- [OpenWrt](https://openwrt.org/)
+
+#### ⚙️ Freebox
+
+- [Freebox API](http://mafreebox.freebox.fr/api_version)
+- [Freebox Dev API Doc](https://dev.freebox.fr/sdk/os/)
 
 #### 🔐 Encryption
 
@@ -384,17 +394,25 @@ layout: default
 
 - [Aegis Authenticator](https://getaegis.app)
 
-### ⚖️ Cryptocurrency
+#### ⚖️ Cryptocurrency
 
 - [Coinbase](https://www.coinbase.com/) 🔥
 - [Coinbase Wallet](https://wallet.coinbase.com/) 🔥
 - [Binance](https://www.binance.com/fr) 🔥
 - [Ledger](https://www.ledger.com/) 🔥
 
+#### ⛓ Blockchain & Explorer
+
+- [Blockchair](https://blockchair.com/fr)
+
 #### 🛒 Purchase
 
 - [Amazon.fr](https://www.amazon.fr/)
 - [Materiel.net](https://www.materiel.net/)
+
+#### 🇪🇸 Language Learning
+
+- [Duolingo](https://www.duolingo.com/)
 
 #### 💻 OS
 
