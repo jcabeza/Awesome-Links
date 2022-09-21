@@ -12,6 +12,7 @@ layout: default
 
 - [Tor Brower](https://www.torproject.org) 🔥
 - [Firefox](https://www.mozilla.org/fr/firefox) 🔥
+- [Firefox Profile](https://ffprofile.com/#form0)
 - [Brave](https://brave.com/fr)
 - [Orbot: Tor for Android](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US)
 - [Tor Browser for Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser)
