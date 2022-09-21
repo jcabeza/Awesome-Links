@@ -35,6 +35,7 @@ layout: default
 #### 💻 Linux
 
 - [Crontab Guru](https://crontab.guru/)
+- [Linux Uprising](https://www.linuxuprising.com/)
 
 #### 💻 Windows
 
@@ -116,6 +117,11 @@ layout: default
 #### 📄 File Search
 
 - [FilePursuit](https://filepursuit.com/)
+
+#### 📄 File Duplicate
+
+- [dupeGuru](https://dupeguru.voltaicideas.net/) 🔥
+- [Czkawka for Linux](https://qarmin.github.io/czkawka/)
 
 #### 📑 PDF Tools
 
