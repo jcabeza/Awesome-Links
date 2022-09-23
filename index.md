@@ -420,8 +420,11 @@ layout: default
 - [Tails](https://tails.boum.org)
 - [Whonix](https://www.whonix.org)
 - [Qubes-os](https://www.qubes-os.org)
-- [Windows 10/11 Privacy](https://www.oo-software.com/en/shutup10)
-- [Windows 10/11 Spy Blocker](https://crazymax.dev/WindowsSpyBlocker)
+- [Kali Linux 2020.1](https://www.kali.org/)
+- [Kali Undercover Mode](https://medium.com/@kavishbaghel/activating-the-undercover-mode-in-kali-linux-9e6f60424567)
+- [Parrot Linux 4.7](https://parrotlinux.org/)
+- [Backbox Linux](https://www.backbox.org/)
+- [PureOS](https://www.pureos.net/)
 
 #### 📖 Ebooks, Kindle & reMarkable
 
