@@ -2,8 +2,6 @@
 layout: default
 ---
 
-##### “🔥Software and tools I use”
-
 #### 🌍 Navigator
 
 - [Tor Brower](https://www.torproject.org) 🔥
