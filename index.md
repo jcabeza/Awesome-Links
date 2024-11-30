@@ -448,16 +448,12 @@ layout: default
 - [Onion OS](https://securityonionsolutions.com/software/)
 - [Generated Photos](https://generated.photos/)
 - [Slate](https://slate.host/)
-- [Movie Flex](https://github.com/othneildrew/Movie-Flex)
-- [oDrive](https://www.odrive.com/)
 - [Haproxy-wi](https://haproxy-wi.org/)
 - [Asciinema](https://asciinema.org/)
 - [OverSec](https://www.oversec.io/)
 - [Zorin OS](https://zorinos.com/)
 - [USB Lock Kit](https://www.usblockit.com/)
-- https://winworldpc.com/library/operating-systems
-- https://lottiefiles.com/
-- https://www.duolingo.com/
+- [WinWorldPC](https://winworldpc.com/library/operating-systems)
 
 ---
 
