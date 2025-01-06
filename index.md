@@ -460,6 +460,6 @@ layout: default
 <!-- <img src="./img/awesome-links.png" alt="Awesome Links" width="50" height="50"> -->
 <p align="center"> Awesome Links - Developed with Love ❤️ </p>
 <p align="center">
- 💙 <a href="https://jcabeza.github.io/AzStuff)">AzStuff</a>
- 💜 <a href="https://jcabeza.github.io/Privacy)">Privacy Stuff</a>
+ 💙 <a href="https://jcabeza.github.io/AzStuff">AzStuff</a>
+ 💜 <a href="https://jcabeza.github.io/Privacy">Privacy Stuff</a>
 </p>
