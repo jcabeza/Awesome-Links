@@ -2,10 +2,10 @@
 layout: default
 ---
 
-#### 🌍 Navigator
+#### 🌍 Browser
 
-- [Tor Brower](https://www.torproject.org) 🔥
-- [Firefox](https://www.mozilla.org/fr/firefox) 🔥
+- [Tor Browser](https://www.torproject.org) ✔️
+- [Firefox](https://www.mozilla.org/fr/firefox) ✔️
 - [Firefox Profile](https://ffprofile.com/#form0)
 - [Brave](https://brave.com/fr)
 - [Orbot: Tor for Android](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US)
@@ -13,19 +13,16 @@ layout: default
 
 #### 🌍 Search
 
-- [DuckDuckGo](https://duckduckgo.com)
 - [Startpage](https://www.startpage.com/)
 - [DarkSearch](https://darksearch.io/)
 
 #### 🧩 Addons
 
-- [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) 🔥
-- [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/) 🔥
-- [DuckDuckGo](https://addons.mozilla.org/fr/firefox/addon/duckduckgo-for-firefox/) 🔥
-- [HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere) 🔥
-- [Ghostery](https://addons.mozilla.org/fr/firefox/addon/ghostery/)
-- [Redirector](https://addons.mozilla.org/fr/firefox/addon/redirector) 🔥
-- [Privacy Redirect](https://addons.mozilla.org/fr/firefox/addon/privacy-redirect/) 🔥
+- [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) ✔️
+- [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/) ✔️
+- [HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere) ✔️
+- [Redirector](https://addons.mozilla.org/fr/firefox/addon/redirector) ✔️
+- [Privacy Redirect](https://addons.mozilla.org/fr/firefox/addon/privacy-redirect/) ✔️
 
 #### 💻 Linux
 
@@ -35,31 +32,34 @@ layout: default
 
 #### 💻 Windows
 
-- [PowerToys](https://github.com/microsoft/PowerToys/releases) 🔥
+- [PowerToys](https://github.com/microsoft/PowerToys/releases) ✔️
 - [XMeters](https://entropy6.com/xmeters/)
 - [WinFR](https://www.microsoft.com/fr-fr/p/windows-file-recovery/9n26s50ln705?activetab=pivot:overviewtab)
 - [Chocolatey](https://chocolatey.org/)
 - [LightKey](https://www.lightkey.io/)
-- [Win10widgets](https://win10widgets.com/)
 - [Rain Wallpaper](http://rainysoft.cc/rainwallpaper.html)
 - [Lightkey (AI-powered Text Predictions)](https://www.lightkey.io/)
 - [Listary (Search utility for Windows)](https://www.listary.com/)
 - [ShareX Screen Capture](https://getsharex.com/)
 
+#### 🤖 IA
+
+- [ChatGPT](https://chatgpt.com/)
+
 #### 🦾 DevOps
 
-- [Windows Subsystem for Linux (WSL2)](https://docs.microsoft.com/fr-fr/windows/wsl/install-win10) 🔥
+- [Windows Subsystem for Linux (WSL2)](https://docs.microsoft.com/fr-fr/windows/wsl/install-win10) ✔️
 - [Windows Subsystem for Linux (Optimization)](https://medium.com/@leandrocrs/speeding-up-wsl-i-o-up-than-5x-fast-saving-a-lot-of-battery-life-cpu-usage-c3537dd03c74)
-- [WSL / ZSH Terminal Environment (Readme)](https://fcbrossard.net/blog/wsl-ubuntu-zsh-hyper-terminal) 🔥
+- [WSL / ZSH Terminal Environment (Readme)](https://fcbrossard.net/blog/wsl-ubuntu-zsh-hyper-terminal) ✔️
 - [Hyper.js (Terminal)](https://hyper.is/)
-- [Oh My Zsh](https://ohmyz.sh/) 🔥
+- [Oh My Zsh](https://ohmyz.sh/) ✔️
 - [Oh My Zsh Powerlevel10k Theme](https://github.com/romkatv/powerlevel10k)
-- [Visual Studio Code](https://code.visualstudio.com/) 🔥
-- VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Markdown Docs 🔥
+- [Visual Studio Code](https://code.visualstudio.com/) ✔️
+- VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Markdown Docs
 - [Shades-of-Purple-VSCode (VSCode Theme)](https://nicedoc.io/ahmadawais/Shades-of-Purple-VSCode)
-- [DevDocs](https://devdocs.io/) 🔥
-- [Smalldev Tools](https://smalldev.tools/) 🔥
-- [Github](https://github.com/) 🔥
+- [DevDocs](https://devdocs.io/)
+- [Smalldev Tools](https://smalldev.tools/)
+- [Github](https://github.com/) ✔️
 - [Gitea](https://gitea.io/en-us/)
 - [GitLab](https://about.gitlab.com/)
 
@@ -77,21 +77,23 @@ layout: default
 
 #### 🔑 Password
 
-- [Bitwarden](https://bitwarden.com) 🔥
-- [KeePassXC](https://keepassxc.org)
+- [ProtonPass](https://proton.me/fr/pass) ✔️
+- [Bitwarden](https://bitwarden.com)
+- [KeePassXC](https://keepassxc.org) ✔️
 - [KeePassDX](https://www.keepassdx.com)
 - [OneTimePassword](https://onetimesecret.com)
 
 #### ✉️ Mailing
 
-- [ProtonMail](https://protonmail.com) 🔥
+- [ProtonMail](https://protonmail.com) ✔️
 
 #### 📡 Messaging
 
-- [Signal](https://www.signal.org) 🔥
-- [Telegram](https://telegram.org) 🔥
+- [Signal](https://www.signal.org) ✔️
+- [Discord](https://discord.com/download) ✔️
+- [Telegram](https://telegram.org)
 - [Telegram Web](https://web.telegram.im/)
-- [Discord](https://discord.com/download) 🔥
+
 
 #### 📄 File Management
 
@@ -101,7 +103,7 @@ layout: default
 
 #### 🗒️ File Transfert
 
-- [SwissTransfer](https://www.swisstransfer.com/fr) 🔥
+- [SwissTransfer](https://www.swisstransfer.com/fr)
 - [Send Tresorit](https://send.tresorit.com/)
 - [Onion Share](https://onionshare.org)
 - [SecureDrop](https://securedrop.org)
@@ -116,7 +118,7 @@ layout: default
 
 #### 📄 File Duplicate
 
-- [dupeGuru](https://dupeguru.voltaicideas.net/) 🔥
+- [dupeGuru](https://dupeguru.voltaicideas.net/)
 - [Czkawka for Linux](https://qarmin.github.io/czkawka/)
 
 #### 📑 PDF Tools
@@ -126,7 +128,7 @@ layout: default
 
 #### 📖 RSS Readers
 
-- [Feedly](https://feedly.com/) 🔥
+- [Feedly](https://feedly.com/)
 
 #### 📂 Directory Reader / Framework
 
