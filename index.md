@@ -27,20 +27,15 @@ layout: default
 #### 💻 Linux
 
 - [Crontab Guru](https://crontab.guru/)
-- [Linux Uprising](https://www.linuxuprising.com/)
 - [Rocky Linux](https://docs.rockylinux.org/books/)
 
 #### 💻 Windows
 
 - [PowerToys](https://github.com/microsoft/PowerToys/releases) ✔️
 - [XMeters](https://entropy6.com/xmeters/)
-- [WinFR](https://www.microsoft.com/fr-fr/p/windows-file-recovery/9n26s50ln705?activetab=pivot:overviewtab)
 - [Chocolatey](https://chocolatey.org/)
-- [LightKey](https://www.lightkey.io/)
 - [Rain Wallpaper](http://rainysoft.cc/rainwallpaper.html)
 - [Lightkey (AI-powered Text Predictions)](https://www.lightkey.io/)
-- [Listary (Search utility for Windows)](https://www.listary.com/)
-- [ShareX Screen Capture](https://getsharex.com/)
 
 #### 🤖 IA
 
@@ -55,13 +50,10 @@ layout: default
 - [Oh My Zsh](https://ohmyz.sh/) ✔️
 - [Oh My Zsh Powerlevel10k Theme](https://github.com/romkatv/powerlevel10k)
 - [Visual Studio Code](https://code.visualstudio.com/) ✔️
-- VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Markdown Docs
-- [Shades-of-Purple-VSCode (VSCode Theme)](https://nicedoc.io/ahmadawais/Shades-of-Purple-VSCode)
+  - VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Markdown Docs
 - [DevDocs](https://devdocs.io/)
 - [Smalldev Tools](https://smalldev.tools/)
 - [Github](https://github.com/) ✔️
-- [Gitea](https://gitea.io/en-us/)
-- [GitLab](https://about.gitlab.com/)
 
 #### 💻 Raspberry PI
 
@@ -69,7 +61,6 @@ layout: default
 
 #### 🐙 Github
 
-- [Tig for Git](https://jonas.github.io/tig/)
 - [Shields.io](https://shields.io/)
 - [GetEmoji](https://getemoji.com/)
 - [Gitmoji](https://gitmoji.dev/)
@@ -98,7 +89,6 @@ layout: default
 #### 📄 File Management
 
 - [Nextcloud](https://nextcloud.com/)
-- [Filestash](https://www.filestash.app/)
 - [Filegator](https://filegator.io/)
 
 #### 🗒️ File Transfert
@@ -114,7 +104,7 @@ layout: default
 
 #### 📄 File Search
 
-- [FilePursuit](https://filepursuit.com/)
+- N.A
 
 #### 📄 File Duplicate
 
@@ -142,8 +132,6 @@ layout: default
 
 - [Wiki.js](https://wiki.js.org/)
 - [BookStack](https://www.bookstackapp.com/)
-- [BookStack Theme](https://github.com/domainzero/bookstack-dark-theme)
-- [MatterWiki](http://matterwiki.com/)
 
 #### 📥 Torrent
 
@@ -182,6 +170,7 @@ layout: default
 
 #### 📹 Video
 
+- [Handbrake](https://handbrake.fr/) ✔️
 - [OBS Studio](https://obsproject.com/fr/)
 - [Screencast-o-matic (Video Recording and Editing)](https://screencast-o-matic.com/)
 - [Free Cam (Video Recording and Editing)](https://www.freescreenrecording.com/)
@@ -191,15 +180,12 @@ layout: default
 - [LosslessCut](https://mifi.github.io/lossless-cut/)
 - [Davinci Resolve](https://www.blackmagicdesign.com/fr/products/davinciresolve/)
 - [EBSynth](https://ebsynth.com/)
-- [Handbrake](https://handbrake.fr/)
 
 #### 🎬 Multimedia / Media Center
 
-- [Emby](https://emby.media/) 🔥
-- [Kodi](https://kodi.tv/)
+- [Emby](https://emby.media/) ✔️
+- [Kodi](https://kodi.tv/) ✔️
 - [Plex](https://www.plex.tv/your-media/)
-- [Imagotv](https://imagotv.fr/)
-- [Leonflix](https://leonflix.net/)
 - [Captvty](https://captvty.fr/)
 
 #### 📷 Picture / Picture Library
@@ -234,7 +220,6 @@ layout: default
 
 - [Lakka](http://lakka.tv/)
 - [RecalBox](https://www.recalbox.com/)
-- [Emupedia](https://emupedia.net/beta/)
 
 #### 🧰 Admin Tools
 
@@ -455,7 +440,6 @@ layout: default
 - [OverSec](https://www.oversec.io/)
 - [Zorin OS](https://zorinos.com/)
 - [USB Lock Kit](https://www.usblockit.com/)
-- [WinWorldPC](https://winworldpc.com/library/operating-systems)
 
 ---
 
