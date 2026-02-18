@@ -13,47 +13,44 @@ layout: default
 
 #### 🌍 Search
 
-- [Startpage](https://www.startpage.com/)
-- [DarkSearch](https://darksearch.io/)
+- [Startpage](https://www.startpage.com)
+- [DarkSearch](https://darksearch.io)
 
 #### 🧩 Addons
 
-- [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) ✔️
-- [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/) ✔️
+- [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin) ✔️
+- [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17) ✔️
 - [HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere) ✔️
 - [Redirector](https://addons.mozilla.org/fr/firefox/addon/redirector) ✔️
-- [Privacy Redirect](https://addons.mozilla.org/fr/firefox/addon/privacy-redirect/) ✔️
+- [Privacy Redirect](https://addons.mozilla.org/fr/firefox/addon/privacy-redirect) ✔️
 
 #### 💻 Linux
 
-- [Crontab Guru](https://crontab.guru/)
-- [Rocky Linux](https://docs.rockylinux.org/books/)
+- [Crontab Guru](https://crontab.guru)
+- [Rocky Linux](https://docs.rockylinux.org/books)
 
 #### 💻 Windows
 
 - [PowerToys](https://github.com/microsoft/PowerToys/releases) ✔️
-- [XMeters](https://entropy6.com/xmeters/)
-- [Chocolatey](https://chocolatey.org/)
+- [XMeters](https://entropy6.com/xmeters)
+- [Chocolatey](https://chocolatey.org)
 - [Rain Wallpaper](http://rainysoft.cc/rainwallpaper.html)
-- [Lightkey (AI-powered Text Predictions)](https://www.lightkey.io/)
+- [Lightkey (AI-powered Text Predictions)](https://www.lightkey.io)
 
 #### 🤖 IA
 
-- [ChatGPT](https://chatgpt.com/)
+- [ChatGPT](https://chatgpt.com)
 
 #### 🦾 DevOps
 
 - [Windows Subsystem for Linux (WSL2)](https://docs.microsoft.com/fr-fr/windows/wsl/install-win10) ✔️
 - [Windows Subsystem for Linux (Optimization)](https://medium.com/@leandrocrs/speeding-up-wsl-i-o-up-than-5x-fast-saving-a-lot-of-battery-life-cpu-usage-c3537dd03c74)
 - [WSL / ZSH Terminal Environment (Readme)](https://fcbrossard.net/blog/wsl-ubuntu-zsh-hyper-terminal) ✔️
-- [Hyper.js (Terminal)](https://hyper.is/)
 - [Oh My Zsh](https://ohmyz.sh/) ✔️
 - [Oh My Zsh Powerlevel10k Theme](https://github.com/romkatv/powerlevel10k)
-- [Visual Studio Code](https://code.visualstudio.com/) ✔️
-  - VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Markdown Docs
-- [DevDocs](https://devdocs.io/)
-- [Smalldev Tools](https://smalldev.tools/)
-- [Github](https://github.com/) ✔️
+- [Visual Studio Code](https://code.visualstudio.com) ✔️
+  - VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Markdown Docs, Bruno, GitHub Copilot Chat
+- [Github](https://github.com) ✔️
 
 #### 💻 Raspberry PI
 
@@ -61,9 +58,9 @@ layout: default
 
 #### 🐙 Github
 
-- [Shields.io](https://shields.io/)
-- [GetEmoji](https://getemoji.com/)
-- [Gitmoji](https://gitmoji.dev/)
+- [Shields.io](https://shields.io)
+- [GetEmoji](https://getemoji.com)
+- [Gitmoji](https://gitmoji.dev)
 - [Readme.so](https://readme.so/fr)
 
 #### 🔑 Password
@@ -82,132 +79,119 @@ layout: default
 
 - [Signal](https://www.signal.org) ✔️
 - [Discord](https://discord.com/download) ✔️
-- [Telegram](https://telegram.org)
-- [Telegram Web](https://web.telegram.im/)
-
-
-#### 📄 File Management
-
-- [Nextcloud](https://nextcloud.com/)
-- [Filegator](https://filegator.io/)
 
 #### 🗒️ File Transfert
 
 - [SwissTransfer](https://www.swisstransfer.com/fr)
-- [Send Tresorit](https://send.tresorit.com/)
+- [Send Tresorit](https://send.tresorit.com)
 - [Onion Share](https://onionshare.org)
 - [SecureDrop](https://securedrop.org)
 
 #### 📄 File Restore
 
-- [Recuva](http://www.recuva.fr/)
-
-#### 📄 File Search
-
-- N.A
+- [Recuva](http://www.recuva.fr)
 
 #### 📄 File Duplicate
 
-- [dupeGuru](https://dupeguru.voltaicideas.net/)
-- [Czkawka for Linux](https://qarmin.github.io/czkawka/)
+- [dupeGuru](https://dupeguru.voltaicideas.net)
+- [Czkawka for Linux](https://qarmin.github.io/czkawka)
 
 #### 📑 PDF Tools
 
-- [I Love PDF](https://www.ilovepdf.com/)
+- [I Love PDF](https://www.ilovepdf.com)
 - [AvePDF](https://avepdf.com/fr)
 
 #### 📖 RSS Readers
 
-- [Feedly](https://feedly.com/)
+- [Feedly](https://feedly.com)
 
 #### 📂 Directory Reader / Framework
 
 - [DirectoryLister](https://github.com/DirectoryLister/DirectoryLister.git)
 - [Reveal.js](https://lab.hakim.se/reveal-js-leap/#/)
-- [Reveal.js](https://revealjs.com/)
-- [Apaxy](https://oupala.github.io/apaxy/)
+- [Reveal.js](https://revealjs.com)
+- [Apaxy](https://oupala.github.io/apaxy)
 - [Naked Pages](https://github.com/krisanalfa/naked-pages)
 
 #### 📝 Wiki
 
-- [Wiki.js](https://wiki.js.org/)
-- [BookStack](https://www.bookstackapp.com/)
+- [Wiki.js](https://wiki.js.org)
+- [BookStack](https://www.bookstackapp.com)
 
 #### 📥 Torrent
 
-- [WebTorrent](https://webtorrent.io/) 
+- [WebTorrent](https://webtorrent.io) 
 
 #### 📢 Spell Checker
 
-- [Antidote](https://www.antidote.info/fr/antidote-10)
-- [LanguageTool](https://languagetool.org/fr/)
+- [LanguageTool](https://languagetool.org/fr)
 
 #### 📸 Photo
 
-- [RawTherapee](https://rawtherapee.com/)
-- [Darktable](https://darktable.fr/)
+- [RawTherapee](https://rawtherapee.com)
+- [Darktable](https://darktable.fr)
 - [Sony Remote Camera Tool](https://support.d-imaging.sony.co.jp/app/remotecameratool/en/)
-- [colourise](https://colourise.sg/)
-- [Pixls](https://pixls.us/)
-- [Free Profile Picture Maker ](https://pfpmaker.com/)
+- [colourise](https://colourise.sg)
+- [Pixls](https://pixls.us)
+- [Free Profile Picture Maker ](https://pfpmaker.com)
 
 #### 📷 Photoshop / Icons Library / Guide line
 
-- [Guide Line Colour](http://guidelinecolour.com/?p=tools/guidelinecolours/)
+- [Guide Line Colour](http://guidelinecolour.com/?p=tools/guidelinecolours)
 - [Live Weave](https://liveweave.com/colors/index.html)
-- [Web Colour Data](http://webcolourdata.com/) 
-- [Flaticon](https://www.flaticon.com/)
-- [Iconsvg](https://iconsvg.xyz/)
+- [Web Colour Data](http://webcolourdata.com) 
+- [Flaticon](https://www.flaticon.com)
+- [Iconsvg](https://iconsvg.xyz)
 - [Icones8](https://icones8.fr/icons)
-- [Instant Logo Search](http://instantlogosearch.com/)
-- [Freepik](https://www.freepik.com/)
-- [Photopea](https://www.photopea.com/)
-- [Pixlr](https://pixlr.com/fr/)
-- [Krita](https://krita.org/en/download/krita-desktop/)
-- [PSD Reader](https://maxogden.github.io/psd.js/)
-- [Reshot](https://www.reshot.com/)
-- [Simple Icons](https://simpleicons.org/)
+- [Instant Logo Search](http://instantlogosearch.com)
+- [Freepik](https://www.freepik.com)
+- [Photopea](https://www.photopea.com)
+- [Pixlr](https://pixlr.com/fr)
+- [Krita](https://krita.org/en/download/krita-desktop)
+- [PSD Reader](https://maxogden.github.io/psd.js)
+- [Reshot](https://www.reshot.com)
+- [Simple Icons](https://simpleicons.org)
 
 #### 📹 Video
 
-- [Handbrake](https://handbrake.fr/) ✔️
-- [OBS Studio](https://obsproject.com/fr/)
-- [Screencast-o-matic (Video Recording and Editing)](https://screencast-o-matic.com/)
-- [Free Cam (Video Recording and Editing)](https://www.freescreenrecording.com/)
+- [Handbrake](https://handbrake.fr) ✔️
+- [OBS Studio](https://obsproject.com/fr)
+- [Screencast-o-matic (Video Recording and Editing)](https://screencast-o-matic.com)
+- [Free Cam (Video Recording and Editing)](https://www.freescreenrecording.com)
 - [simple-video-cutter](https://github.com/bartekmotyl/simple-video-cutter.git)
 - [VidCutter](https://github.com/ozmartian/vidcutter)
-- [Shotcut](https://www.shotcut.org/)
-- [LosslessCut](https://mifi.github.io/lossless-cut/)
-- [Davinci Resolve](https://www.blackmagicdesign.com/fr/products/davinciresolve/)
-- [EBSynth](https://ebsynth.com/)
+- [Shotcut](https://www.shotcut.org)
+- [LosslessCut](https://mifi.github.io/lossless-cut)
+- [Davinci Resolve](https://www.blackmagicdesign.com/fr/products/davinciresolve)
+- [EBSynth](https://ebsynth.com)
 
 #### 🎬 Multimedia / Media Center
 
-- [Emby](https://emby.media/) ✔️
-- [Kodi](https://kodi.tv/) ✔️
-- [Plex](https://www.plex.tv/your-media/)
-- [Captvty](https://captvty.fr/)
+- [Emby](https://emby.media) ✔️
+- [Kodi](https://kodi.tv) ✔️
+- [Plex](https://www.plex.tv/your-media)
+- [Captvty](https://captvty.fr)
 
 #### 📷 Picture / Picture Library
 
-- [TinyEye](https://tineye.com/)
-- [Pixabay](https://pixabay.com/fr/)
-- [Pexels](https://www.pexels.com/fr-fr/)
-- [Unsplash](https://unsplash.com/)
+- [TinyEye](https://tineye.com)
+- [Pixabay](https://pixabay.com/fr)
+- [Pexels](https://www.pexels.com/fr-fr)
+- [Unsplash](https://unsplash.com)
 - [Stocksnap.io](https://stocksnap.io/popular)
-- [Estract Pics](https://extract.pics/)
-- [Convertio](https://convertio.co/fr/png-ico/)
+- [Estract Pics](https://extract.pics)
+- [Convertio](https://convertio.co/fr/png-ico)
 
 #### 🪟 Wallpapers
 
-- [Wallhaven](https://wallhaven.cc/)
-- [Wallpaperflare](https://www.wallpaperflare.com/)
+- [Wallhaven](https://wallhaven.cc)
+- [Wallpaperflare](https://www.wallpaperflare.com)
 
 #### 💎 3D
 
-- [Blender](https://www.blender.org/)
+- [Blender](https://www.blender.org)
 - [Quixel](https://quixel.com/gallery)
-- [Unreal](https://www.unrealengine.com/en-US/)
+- [Unreal](https://www.unrealengine.com/en-US)
 
 #### 👫🏻 Collaborative
 
@@ -348,8 +332,7 @@ layout: default
 - [ProtonVPN](https://protonvpn.com) 🔥
 - [OpenVPN](https://openvpn.net) 🔥
 - [WireGuard](https://www.wireguard.com)
-- [Firezone](https://www.firezone.dev/) 🧪
-- [PiVPN](https://pivpn.io/)
+- [Firezone](https://www.firezone.dev) 🧪
 
 #### ✂️ Pastebin
 
@@ -358,7 +341,6 @@ layout: default
 
 #### 📹 📺 Youtube
 
-- [FreeTube](https://freetubeapp.io)
 - [NewPipe for Android](https://newpipe.net) 🔥
 
 #### 🧹 Exif Data
@@ -387,11 +369,6 @@ layout: default
 
 - [Blockchair](https://blockchair.com/fr)
 
-#### 🛒 Purchase
-
-- [Amazon.fr](https://www.amazon.fr/)
-- [Materiel.net](https://www.materiel.net/)
-
 #### 🇪🇸 Language Learning
 
 - [Duolingo](https://www.duolingo.com/)
@@ -401,11 +378,8 @@ layout: default
 - [Tails](https://tails.boum.org)
 - [Whonix](https://www.whonix.org)
 - [Qubes-os](https://www.qubes-os.org)
-- [Kali Linux 2020.1](https://www.kali.org/)
+- [Kali Linux 2020.1](https://www.kali.org)
 - [Kali Undercover Mode](https://medium.com/@kavishbaghel/activating-the-undercover-mode-in-kali-linux-9e6f60424567)
-- [Parrot Linux 4.7](https://parrotlinux.org/)
-- [Backbox Linux](https://www.backbox.org/)
-- [PureOS](https://www.pureos.net/)
 
 #### 📖 Ebooks, Kindle & reMarkable
 
@@ -414,14 +388,14 @@ layout: default
 
 #### 😜 Funny
 
-- [Papertoys](https://www.paper-toy.fr/)
-- [Geektyper](http://geektyper.com/)
-- [Heckertyper](https://hackertyper.net/)
-- [Archive.org](https://archive.org/)
-- [dpi.lv](http://dpi.lv/)
-- [Windows XP React.js](https://winxp.now.sh/)
-- [Zenphoton](https://zenphoton.com/)
-- [Weavesilk](http://weavesilk.com/)
+- [Papertoys](https://www.paper-toy.fr)
+- [Geektyper](http://geektyper.com)
+- [Heckertyper](https://hackertyper.net)
+- [Archive.org](https://archive.org)
+- [dpi.lv](http://dpi.lv)
+- [Windows XP React.js](https://winxp.now.sh)
+- [Zenphoton](https://zenphoton.com)
+- [Weavesilk](http://weavesilk.com)
 - [Harmony](https://mrdoob.com/projects/harmony/#web)
 - [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 - [Foldnfly](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
